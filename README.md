@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 I'm Femi Adigun, the rose that grew from concrete.
 
@@ -72,11 +72,12 @@ Most of my projects are protected by NDA, however, here are few I can talk about
 
 ## 📜 Certifications
 
-- AWS Certified Solutions Architect - Professional
-- Google Cloud Professional DevOps Engineer
-- Microsoft Certified: Azure Solutions Architect
+- AWS Certified Developer Associate
+- Certified Ethical Hacker
+- SAFe5 Agilist
 - Certified Kubernetes Administrator (CKA)
 - Certified Scrum Master
+  and many more
 
 ## 🤝 Community Involvement
 
