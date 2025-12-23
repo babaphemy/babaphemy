@@ -12,11 +12,15 @@ Check out my [personal website](https://www.femiadigun.com/me) and [blog posts](
 
 - MSc in Information Technology, University of Maryland, 2019-2021
 - BTech in Applied Chemistry, Ladoke Akintola University of Technology, 2001-2006
-- Professional certifications: AWS Developer Associate, Certified Kubernetes Administrator, Certified Ethical Hacker, Oracle Certified Professional, SAFe 5 Agilist, Certified Scrum Master, Lean6 Sigma and many more.
+- Professional certifications: Red Hat Certified Engineer, AWS Architect, Certified Kubernetes Administrator, Certified Ethical Hacker, Oracle Certified Professional, SAFe 5 Agilist, Certified Scrum Master, Lean6 Sigma and many more.
 
 ## 💼 Experience
 
-- **Senior Software Engineer**, LyondellBasell (2023-Present)
+- **Principal Site Reliability Engineer**, Alaska Airlines (2025 - Present)
+  - Lead the systems and site reliability engineering efforts
+  - Modernize and migrate legacy applications and platforms to the cloud
+  - Observability and Monitoring that guarantees resilience, fault tolerance and high availability
+- **Senior Software Engineer**, LyondellBasell (2023-2025)
 
   - Leading development of cloud-native applications
   - Implemented CI/CD pipelines using Git, ArgoCD, Jenkins, K8, and Docker, which promoted streamlined deployments and efficient version control.
