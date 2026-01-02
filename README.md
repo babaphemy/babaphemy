@@ -16,7 +16,7 @@ Check out my [personal website](https://www.femiadigun.com/me) and [blog posts](
 
 ## 💼 Experience
 
-- **Principal Site Reliability Engineer**, Alaska Airlines (2025 - Present)
+- **Principal Site Reliability Engineer** (2026 - Present)
   - Lead the systems and site reliability engineering efforts
   - Modernize and migrate legacy applications and platforms to the cloud
   - Observability and Monitoring that guarantees resilience, fault tolerance and high availability
